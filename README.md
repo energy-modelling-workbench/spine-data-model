@@ -1,5 +1,5 @@
 # spine-data-model
-Data model for Spine compatible data
+Data model for Spine compatible data. _**Work in Progress!**_
 
 This data model description contains two major parts. First, different elements of the data model are introduced one by one. Second, formal properties of each data element are described. This is a description of Spine data model - Spine Toolbox implements the data model and serves as a reference implementation.
 
