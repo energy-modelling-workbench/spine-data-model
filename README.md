@@ -5,7 +5,7 @@ This data model description contains two major parts. First, different elements 
 
 ## Purpose of the Spine data model
 
-Spine data model serves use cases where the data has graph-like structure, contains complex data types (e.g. multi-dimensional time series data), there is a need for alternative data values (e.g. to build scenarios) and the data should be easily convertible into different formats. This is often the case when using modelling tools.
+Spine data model serves use cases where the data has graph-like structure, contains complex data types (e.g. multi-dimensional time series data), there is a need for alternative data values (e.g. to build scenarios) and the data should be easily convertible into different formats. This is often the case when modelling something complex.
 
 ## Introduction to the data model
 
