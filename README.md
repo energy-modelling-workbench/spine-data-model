@@ -25,7 +25,7 @@ Data is often uncertain and it's therefore important to be able to define `alter
 
 The data model supports metadata. The first form of that is a `commit` message, which can be applied when adding a batch of data to a data container. It is not meant for structural elements like an `entity_class`, but for elements that are data instances, like an `entity` or a `parameter_value`. The second form of metadata is a `metadata_content` element, which needs to follow Spine metadata guidelines. Each `metadata_content` can be linked with multiple entities and/or parameter values, so that metadata does not need to be unnecessarily repeated. This also means that one entity (or parameter value) can have multiple metadata content entries.
 
-![image](https://github.com/energy-modelling-workbench/spine-data-model/assets/40472544/23f0c9e4-4064-4345-985b-55b176947e47)
+![image](https://github.com/energy-modelling-workbench/spine-data-model/assets/40472544/9623b887-321b-42e7-8278-ada4a47b2537)
 
 ## Data model definition
 
@@ -59,6 +59,8 @@ When entity_classes have multiple dimensions, this table defines the order of th
 |----|----|----|
 |id      |unique index  |integer  |
 
+...to be continued
 
+## Parameter types
 
-
+...to be continued
