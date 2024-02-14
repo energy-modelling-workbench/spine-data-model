@@ -1,5 +1,7 @@
 # spine-data-model
-Data model for Spine compatible data. _**Work in Progress!**_ This data model is used by the ines-spec (interoperable energy system data specification). As there is nothing energy specific in this data model, it's named after the EU project where the initial data model was created to serve modelling purposes (including energy system modelling).  
+ _**Work in Progress!**_
+ 
+Graph-based data model to contain both data as well as the structure of the data. The data model is aimed to serve different modelling needs. It supports complex parameter structures as well as alternative parameters values to facilitate scenario building. Spine data model is used by the ines-spec (interoperable energy system data specification). It is named after the EU project where the initial data model was created.  
 
 This data model description contains two major parts. First, different elements of the data model are introduced one by one. Second, formal properties of each data element are described. This is a description of Spine data model - Spine Toolbox implements the data model and serves as a reference implementation.
 
